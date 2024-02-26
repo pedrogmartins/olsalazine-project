@@ -1,6 +1,6 @@
 # Olsalazine Project
 
-Computational studies of amine-appended Mg$`_2`$(olz) and Mg$`_2`$(dobpdc) MOFs, promising materials for cooperative CO$`_2`$ adsoprtion. This work aims at resolving the system's atomic structure in the presence of CO$`_2`$ and H$`_2`$O from first-principles relaxations and NMR calculations as well as neural network potential driven molecular dynamics and conformer search. Here you will find a sample of scripts and Jupyter Notebooks to impelement this workflow. 
+Computational studies of amine-appended Mg$`_2`$(olz) and Mg$`_2`$(dobpdc) MOFs, promising materials for cooperative CO$`_2`$ adsoprtion. This work aims at resolving the system's atomic structure in the presence of CO$`_2`$ and H$`_2`$O from first-principles relaxations and NMR calculations as well as neural network potential driven molecular dynamics and conformer search. Here you will find a sample of scripts and Jupyter Notebooks to implement this workflow. 
 
 
 ## Publications
