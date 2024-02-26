@@ -1,3 +1,3 @@
-# olsalazine-project
+# Olsalazine Project
 
-Let me change it a lil bit. 
+Computational studies of Mg$_2$(olz) MOF. 
