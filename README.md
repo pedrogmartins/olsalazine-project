@@ -9,4 +9,4 @@ Zhu, Ziting, ..., **Guimarães Martins, Pedro**, et al. "High-Capacity, Cooperat
 
 Zhu, Ziting, ..., **Guimarães Martins, Pedro**, et al. "Olsalazine-Based Metal−Organic Frameworks As a Platform for Cooperative Direct Air Capture of Carbon Dioxide". (in preparation)
 
-Guimarães Martins, Pedro, et al. "Investigating Water Adsorption in Amine-Appended Metal-Organic Frameworks using Density Functional Theory- Derived Neural Network Potentials". (in preparation)
+**Guimarães Martins, Pedro**, et al. "Investigating Water Adsorption in Amine-Appended Metal-Organic Frameworks using Density Functional Theory- Derived Neural Network Potentials". (in preparation, presented at APS 2024 March Meeting)
