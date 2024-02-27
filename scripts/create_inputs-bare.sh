@@ -1,7 +1,7 @@
 #!/bin/bas
 
-# This script goes through all imput structures in a directory
-#   creates input folder and files and submits VASP relaxation
+# This script goes through all input structures in a directory,
+#   creates input folder and files and submits VASP relaxation.
 
 for i in $(ls best-30-structures/ | grep bare); do
    mkdir ${i:0:-5}
