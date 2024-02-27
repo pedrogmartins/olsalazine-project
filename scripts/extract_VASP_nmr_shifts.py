@@ -1,8 +1,8 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-# This file is adapted from script writte by Alex Smith (graduate
-#  student in Neaton Group at UCBerkeley). It extracts the NMR shifts
+# This file is adapted from script written by Alex Smith (graduate
+#  student in Neaton Group at UC Berkeley). It extracts the NMR shifts
 #  computed by VASP, and substracts the appropriate NMR shift references.
 #  Shifts are saved in .csv files.
 
