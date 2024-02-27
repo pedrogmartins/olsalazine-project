@@ -1,6 +1,8 @@
 #!/bin/bash
 
 #This script checks which directory has converged VASP relaxations
+#   and moves the simulation folder to a converged directory 
+
 parent_directory="./"
 mkdir converged
 converged_directory="./converged/"
