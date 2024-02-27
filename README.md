@@ -9,5 +9,3 @@ Zhu, Ziting, ..., **Guimarães Martins, Pedro**, et al. "High-Capacity, Cooperat
 
 Zhu, Ziting, ..., **Guimarães Martins, Pedro**, et al. "Olsalazine-Based Metal−Organic Frameworks As a Platform for Cooperative Direct Air Capture of Carbon Dioxide". (in preparation)
 
-test
-
