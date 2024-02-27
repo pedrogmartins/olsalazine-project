@@ -8,3 +8,5 @@ Computational studies of amine-appended Mg$`_2`$(olz) and Mg$`_2`$(dobpdc) MOFs,
 Zhu, Ziting, ..., **Guimarães Martins, Pedro**, et al. "High-Capacity, Cooperative CO2 Capture in a Diamine-Appended Metal–Organic Framework through a Combined Chemisorptive and Physisorptive Mechanism." Journal of the American Chemical Society (2024).
 
 Zhu, Ziting, ..., **Guimarães Martins, Pedro**, et al. "Olsalazine-Based Metal−Organic Frameworks As a Platform for Cooperative Direct Air Capture of Carbon Dioxide". (in preparation)
+
+Guimarães Martins, Pedro, et al. "Investigating Water Adsorption in Amine-Appended Metal-Organic Frameworks using Density Functional Theory- Derived Neural Network Potentials". (in preparation)
