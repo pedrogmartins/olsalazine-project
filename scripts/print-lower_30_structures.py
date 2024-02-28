@@ -5,11 +5,12 @@ import ase.io
 
 %cd olsalz-project/phase-IV-simulated-annealing/2023_08_28-NPP-relax/bare-fully-relaxed-water-6-v1
 
-#This script walks through a directory, find all the potential
-#  energy of each structure calculated with a single-point LAMMPS
-#  computation powered by neural network potential. It ultimately
+#This script walks through a directory, finds the potential
+#  energy of each structure from a single-point LAMMPS
+#  computation powered by a neural network potential. It ultimately
 #  prints out the folder corresponding to the 30 lowest energy
-#  structures and check their number of atoms.    
+#  structures and check their number of atoms to certify structure
+#  integrity.    
 
 base_directory = './'
 
