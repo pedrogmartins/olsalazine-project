@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #This scrip goes through all relaxations in current directory and resubmits all 
-#   calculations that have not convergedt
+#   calculations that have not converged.
 
 
 for file in lammps*; do
