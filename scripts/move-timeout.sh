@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-#This script identifies all simulations that have timeout and 
+#This script identifies all simulations that have timed out and 
 #  mvoes them to another directory for resubmission
 
 # Define the root directory
